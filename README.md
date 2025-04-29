@@ -15,7 +15,7 @@ The app consists of **three main screens**:
    - A series of flag-based multiple-choice questions are displayed one by one.
    - Users select their answer, and the app immediately moves on to the next question.
 
-3. **Result Screen** *(Optional – add if implemented)*  
+3. **Result Screen**   
    - Displays the final score and performance summary after all questions are answered.
 
 ---
@@ -26,7 +26,7 @@ The app consists of **three main screens**:
 - Interactive flag-based questions to test geographic knowledge.
 - Real-time progress as users move through the quiz.
 - Input validation for user name entry.
-- Final score summary and feedback (if implemented).
+- Final score summary and feedback.
 - Support for multiple screen sizes.
 
 ---
